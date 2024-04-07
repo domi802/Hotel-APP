@@ -1,0 +1,9 @@
+# ninja log v5
+1492	1623	1683828666087622524	ProjektHotelu	33b4165569e87124
+1290	1778	7055337734191247	ProjektHotelu.exe	1acafb16d1494d31
+1	896	7055325575087498	CMakeFiles/ProjektHotelu.dir/Room.cpp.obj	a08ab394a4164dac
+1316	1778	7055325584103287	CMakeFiles/ProjektHotelu.dir/date.cpp.obj	e49c3281039685d3
+20	1223	7055325578423228	CMakeFiles/ProjektHotelu.dir/Reservation.cpp.obj	262c9391717c0118
+897	1787	7055325584163280	CMakeFiles/ProjektHotelu.dir/Person.cpp.obj	2a2431e344ceb414
+4	1290	7055337729490517	CMakeFiles/ProjektHotelu.dir/main.cpp.obj	f350193ad939a794
+1224	2481	7055325591144093	CMakeFiles/ProjektHotelu.dir/Hotel.cpp.obj	5b1db6cf2d1cf038

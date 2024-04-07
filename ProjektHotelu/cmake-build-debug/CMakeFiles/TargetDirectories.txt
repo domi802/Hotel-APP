@@ -1,0 +1,3 @@
+/Users/dominik/Desktop/ProjektHotelu3/ProjektHotelu/cmake-build-debug/CMakeFiles/ProjektHotelu.dir
+/Users/dominik/Desktop/ProjektHotelu3/ProjektHotelu/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/dominik/Desktop/ProjektHotelu3/ProjektHotelu/cmake-build-debug/CMakeFiles/rebuild_cache.dir
